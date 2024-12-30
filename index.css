@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+.nitish{
+width: 100%;
+background: linear-gradient(135deg,#4203a9,#90bafc);
+color: #fff;
+padding: 10px;
+min-height: 100vh;
+}
+.contener{
+    width: 90%;
+    max-width: 500px;
+   
+    margin-left: 10%;
+    margin-top: 10%;
+    
+}
+h1{
+    font-size: 40px;
+}
+span{
+    margin-top: 40px;
+color:rgb(224, 174, 112) ;
+}
+.box{
+    height: 50px;
+    margin-top: 40px;
+   background: rgb(255, 255, 255),0.3;
+   padding: 15px;
+   
+}
+input{
+    width: 60vh;
+    height: 40px;
+    padding: 10px;
+    margin-top: 40px;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    font-size: 18px;
+   
+}
+button{
+    width: 15vh;
+    height: 40px;
+    border: 0;
+    outline: 0;
+    cursor: pointer;
+    font-weight: 500;
+    background-color: rgb(224, 174, 112);
+    border-radius: 5px;
+    margin-bottom: 15px;
+    
+    
+
+}
+p{
+    margin-top: 70px;
+    margin-left: 30px;
+}
